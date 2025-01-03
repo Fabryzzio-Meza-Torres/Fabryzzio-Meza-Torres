@@ -20,4 +20,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Fabryzzio-Meza-Torres&icon=2&color=4)](https://visitcount.itsvg.in)
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{Fabryzzio-Meza-Torres}" width="1000" height="120"/>
+</a>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
